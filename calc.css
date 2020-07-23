@@ -1,0 +1,54 @@
+* { 
+	margin: 0px;
+	padding: 0px;
+}
+
+div {
+	width: 170px;
+}
+
+#div1 {
+	position: absolute;
+	top: 60px;
+	left: 100px;
+}
+
+#div2 {
+	position: relative;
+	left: 2px;
+}
+
+
+#div3 {
+	margin-top: 3px;
+}
+
+input[type = "button"] {
+	width: 30px;
+	margin: 2.4px;
+	margin-top: 3px;
+}
+
+input[type = "text"] {
+	text-align: right;
+	background-color: #fff;
+	border: 1px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,6 @@
 # Calculator_js
-##JavaScript复习，仿Wndows计算器。
+## 仿Wndows计算器
+### HTML+CSS+JavaScrip
 
 ### 功能：
 	1、 实现单机按钮录入数字
@@ -9,8 +10,17 @@
 	4、 实现退位功能，已经是最后一位时，显示框为零
 	6、 清屏功能
 
+### HTML:
+	1、div 布局
+	2、input 实现计算器模型
+
+### CSS:
+	1、
+	2、
+
 ### 涉及的JavaScript知识点：
 	1、 自定义函数
 	2、 事件及其处理
 	3、 异常处理
+
 
