@@ -1,5 +1,4 @@
-# Calculator_js
-## 仿Wndows计算器
+# 仿Wndows计算器
 ### HTML+CSS+JavaScrip
 
 ### 功能：
