@@ -79,7 +79,6 @@ function init() {
 									num.value = btn_num1 / Number(num.value);
 								}
 							break;
-
 						}
 						
 						break;
