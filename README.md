@@ -24,6 +24,5 @@
 	3、 异常处理
 
 ### 效果图
-https://raw.githubusercontent.com/minos-ty/Calculator_js/master/1.png
 
 
