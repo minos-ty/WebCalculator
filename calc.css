@@ -15,7 +15,7 @@ div {
 
 #div2 {
 	position: relative;
-	left: 2px;
+	left: 1px;
 }
 
 
@@ -27,13 +27,21 @@ input[type = "button"] {
 	width: 30px;
 	margin: 2.4px;
 	margin-top: 3px;
+	te
 }
 
 input[type = "text"] {
 	text-align: right;
 	background-color: #fff;
 	border: 1px solid;
+
 }
+
+input[type = "button"]:hover {
+	background-color: pink;
+	border: 1px solid deeppink; 
+}
+
 
 
 
