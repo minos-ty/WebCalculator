@@ -80,9 +80,7 @@ function init() {
 								}
 							break;
 						}
-						
 						break;
-
 						case "m":
 						document.getElementById("m").onclick = function(){
 							window.location.href = "https://github.com/minos-ty";
