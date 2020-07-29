@@ -1,7 +1,8 @@
 /**
- * 初始化
+ *  初始化
  */
-
+ 
+ 
 function init() {
 	var num = document.getElementById("num");
 	num.value = 0;

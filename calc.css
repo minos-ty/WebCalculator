@@ -2,25 +2,26 @@
 	margin: 0px;
 	padding: 0px;
 }
-
+ 
 div {
 	width: 170px;
 }
-
+ 
 #div1 {
 	position: absolute;
 	top: 60px;
 	left: 100px;
 }
-
+ 
 #div2 {
 	position: relative;
 	left: 1px;
 }
-
+ 
 #div3 {
 	margin-top: 3px;
 }
+
 
 input[type = "button"] {
 	width: 30px;
