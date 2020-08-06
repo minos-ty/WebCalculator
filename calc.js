@@ -7,7 +7,6 @@ function init() {
 	var num = document.getElementById("num");
 	num.value = 0;
 	num.disabled="disabled"; //禁止用户通过文本框输入数据，防止输入非数字字符
-	
 	var objButtons =  document.getElementsByTagName("input");
 	var btn_num1;
 	var fh;//符号控制
